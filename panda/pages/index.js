@@ -15,8 +15,8 @@ export default function Home() {
       <nav className={styles.mainnav}>
         <ul>
           <li>Home</li>
-          <li>Blogs</li>
-          <li>Media</li>
+          <li>About</li>
+          <li>Blog</li>
           <li>Contact</li>
         </ul>
       </nav>
