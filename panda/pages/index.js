@@ -5,6 +5,7 @@ import Script from 'next/script'
 import Link from 'next/link'
 
 export default function Home() {
+  console.log(styles)
   return (
     <div className={styles.container}>
       <Head>
